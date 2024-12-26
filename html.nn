@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Nithin Thokada - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #2C3E50;
+        }
+        .contact-info, .skills, .experience, .education, .languages {
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .section-title {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+            color: #34495E;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Nithin Thokada</h1>
+            <p><strong>Phone:</strong> 7993910 | <strong>Email:</strong> nithinthokada</p>
+            <p><strong>LinkedIn:</strong> <a href="#">Your LinkedIn URL</a></p>
+        </header>
+
+        <section class="objective">
+            <h2 class="section-title">Objective</h2>
+            <p>Motivated second-year B.Tech student in Computer Science Engineering with a strong foundation in HTML, C++, JavaScript, Python programming, and ethical hacking. Seeking to apply technical skills in a software development or cybersecurity role.</p>
+        </section>
+
+        <section class="experience">
+            <h2 class="section-title">Professional Experience</h2>
+            <ul>
+                <li>
+                    <strong>Software Engineer</strong> – Infosys (2 years) <br>
+                    <em>Location: [Add City, State]</em><br>
+                    <ul>
+                        <li>Developed and maintained web applications using HTML, C++, and JavaScript.</li>
+                        <li>Worked on Python-based solutions for automating tasks and improving operational efficiency.</li>
+                        <li>Contributed to cybersecurity projects as part of ethical hacking initiatives.</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+        <section class="education">
+            <h2 class="section-title">Education</h2>
+            <ul>
+                <li>
+                    <strong>B.Tech in Computer Science Engineering (CSE)</strong> – Visakha Institute of Engineering and Technology <br>
+                    <em>Expected Graduation Year: [Add Year]</em>
+                    <ul>
+                        <li>Relevant Coursework: Web Development, Python Programming, Data Structures, Algorithms</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+        <section class="skills">
+            <h2 class="section-title">Skills</h2>
+            <ul>
+                <li><strong>Programming Languages:</strong> HTML, C++, JavaScript, Python</li>
+                <li><strong>Technical Skills:</strong> Ethical Hacking, Web Development, Cybersecurity</li>
+                <li><strong>Languages:</strong> Telugu (Native), Hindi (Fluent), English (Fluent)</li>
+            </ul>
+        </section>
+
+        <section class="languages">
+            <h2 class="section-title">Languages</h2>
+            <ul>
+                <li><strong>Telugu:</strong> Native</li>
+                <li><strong>Hindi:</strong> Fluent</li>
+                <li><strong>English:</strong> Fluent</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
